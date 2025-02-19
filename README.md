@@ -1,4 +1,4 @@
-![Project Preview](https://raw.githubusercontent.com/vmrmuhvmedd/tweets-sentiment-analysis)
+![Project Preview](https://raw.githubusercontent.com/vmrmuhvmedd/tweets-sentiment-analysis/main/tweets-sentiment-analysis.png)
 # Tweets Sentiment Analysis  
 
 ## Overview  
