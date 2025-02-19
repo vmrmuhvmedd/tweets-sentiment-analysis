@@ -52,4 +52,6 @@ Text preprocessing steps included:
   - Positive tweets included terms like "effective", "vaccine", and "thanks".  
   - Negative tweets often mentioned "side effects", "concerns", and "hesitant".  
 - **Model Accuracy:**  
-  - The Logistic Regression model achieved an accuracy of **84.64%** in classifying tweet sentiments.  
+  - The Logistic Regression model achieved an accuracy of **84.64%** in classifying tweet sentiments.
+ 
+![Project Preview](https://raw.githubusercontent.com/username/repo/main/preview-image.png)
