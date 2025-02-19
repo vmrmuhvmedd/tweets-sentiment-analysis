@@ -1,3 +1,4 @@
+![Project Preview](https://raw.githubusercontent.com/vmrmuhvmedd/tweets-sentiment-analysis)
 # Tweets Sentiment Analysis  
 
 ## Overview  
